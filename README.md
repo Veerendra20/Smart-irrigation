@@ -18,8 +18,7 @@ Technologies Used:-
         Scikit-learn (RandomForest, MultiOutputClassifier)
         Matplotlib, Seaborn
         Joblib (Model Saving)
-        link:https://smart-irrigation-iqcuozm9lqrjaxbmyhwnan.streamlit.app/
-
+        
  Dataset:-
        Source: irrigation_machine.csv
        Features: Temperature, humidity, soil moisture, pH, etc.
@@ -36,6 +35,8 @@ Technologies Used:-
  Results:-
      Model tested with classification reports.
      Achieved high accuracy on multiple irrigation-related outputs.
+     
+link:https://smart-irrigation-iqcuozm9lqrjaxbmyhwnan.streamlit.app/
 
 
 
