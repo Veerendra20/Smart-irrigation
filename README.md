@@ -18,6 +18,7 @@ Technologies Used:-
         Scikit-learn (RandomForest, MultiOutputClassifier)
         Matplotlib, Seaborn
         Joblib (Model Saving)
+        link:https://smart-irrigation-iqcuozm9lqrjaxbmyhwnan.streamlit.app/
 
  Dataset:-
        Source: irrigation_machine.csv
